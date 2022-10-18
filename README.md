@@ -1,5 +1,3 @@
-# Skorupa-95BR
-Minha apresentação pessoal...
 <div>
 <h1>Olá, eu sou o Guilherme, iniciante no mundo da tecnologia...</h1>
 
